@@ -27,6 +27,6 @@ The program will output:
 * Processing all image in input folder
 * Save process result in output directory
 ## Reference
-[Decolorization: Is rgb2gray() Out?](https://ybsong00.github.io/siga13tb/siga13tb_final.pdf)
-[Computer Vision 2019 Fall](http://media.ee.ntu.edu.tw/courses/cv/19F/)
-[HW1 Advanced Color-to-Gray Conversion](https://github.com/fanoping/Computer-Vision/tree/master/hw1)
+- [Decolorization: Is rgb2gray() Out?](https://ybsong00.github.io/siga13tb/siga13tb_final.pdf)
+- [Computer Vision 2019 Fall](http://media.ee.ntu.edu.tw/courses/cv/19F/)
+- [HW1 Advanced Color-to-Gray Conversion](https://github.com/fanoping/Computer-Vision/tree/master/hw1)
