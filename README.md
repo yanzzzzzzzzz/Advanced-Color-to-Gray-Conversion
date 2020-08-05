@@ -1,4 +1,5 @@
 # Advanced-Color-to-Gray-Conversion
+An implementation of "Song, Yibing & Bao, Linchao & Xu, Xiaobin & Yang, Qingxiong. (2013). Decolorization: Is rgb2gray() out?. SIGGRAPH Asia 2013 Technical Briefs, SA "
 
 ## Requirement
 * python3 (or higher)
